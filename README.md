@@ -1,9 +1,9 @@
-# Empowering users agaist web browser fingerprinting.
+## Empowering users agaist web browser fingerprinting.
 
-## FPMON is a browser extension that will show you how and when your device is fingerprinted while browsing the web.
+### FPMON is a browser extension that will show you how and when your device is fingerprinted while browsing the web.
 
 
-### Install FPMON in Chrome or Chromium.
+#### Install FPMON in Chrome or Chromium.
 
 1. Open Chrome
 2. Go to "chrome://extensions/"
