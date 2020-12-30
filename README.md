@@ -1,4 +1,4 @@
-## Empowering users agaist web browser fingerprinting.
+## Empowering users against web browser fingerprinting.
 
 FPMON is a browser extension that will show you how and when your device is fingerprinted while browsing the web.
 For more information check out https://fpmon.github.io/fingerprinting-monitor/
